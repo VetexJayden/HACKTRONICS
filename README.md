@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/Chamodya-official">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+TESLA+TECH...+Thank+You+For+Visiting+us...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+VETEX JAYDEN+TECH...+Thank+You+For+Visiting+us...."
             alt="Typing SVG"
         />
     </a>
@@ -14,17 +14,17 @@
 
 
 
-# _Mⱥsͥteͣrͫmiήd_
+# _Hobbyst Coder_
 
-***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
+***This whatsapp bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
 ## FORK THIS REPOSITORY
-Before installing whatsapp lightweight minibot makesure you fork this repository
+Before installing whatsapp lightweight bot makesure you fork this repository
 Cheers enjoy
 
-🙂➾ [Fork This Repo By Clicking Here](https://github.com/elize21/HACK1/fork/)
+🙂➾ [Fork This Repo By Clicking Here](https://github.com/VetexJayden/HACKTRONICS/fork/)
 
 **Install Via Termux ✅**
 
@@ -41,8 +41,8 @@ $ pkg install wget
 $ pkg install ffmpeg
 $ pkg install nodejs
 $ pkg install git nodejs -y
-$ git clone https://github.com/elize21/HACK1
-$ cd HACK1
+$ git clone https://github.com/VetexJayden/HACKTRONICS
+$ cd HACKTRONICS
 $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
@@ -61,8 +61,8 @@ $ sudo apt install wget
 $ sudo apt install ffmpeg
 $ sudo apt install nodejs
 $ sudo apt install git nodejs -y
-$ git clone https://github.com/elize21/HACK1
-$ cd HACK1
+$ git clone https://github.com/VetexJayden/HACKTRONICS
+$ cd HACKTRONICS
 $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
@@ -81,7 +81,7 @@ On github upload your creds generated from termux to session folder
 # NB☑
 make sure you turn your repository private after scanning qrcode in termux
 # **Regards** 
-                           wa.me+254701118127
+                           wa.me+254700577615
 # **Connect to Heroku**
 - Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
 # _Enable dynos_
@@ -93,10 +93,10 @@ Manually install ```node_modules``` or use the command ```npm install``` to inst
 ```bash
 
 ## License
-[MIT License]((https://github.com/elize21/HACK1)/blob/main/LICENSE)
+[MIT License]((https://github.com/VetexJayden/HACKTRONICS)/blob/main/LICENSE)
 
-Copyright (c) 2023 ##HACK1 ```
+Copyright (c) 2023 ##HACKTRONICS ```
 
 
-## **_TESLAS_MASTERMIND_**
+## **_VETEX JAYDEN_**
 
