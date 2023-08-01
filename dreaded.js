@@ -50,7 +50,7 @@ async function main() {
   const { state, saveCreds } = await useMultiFileAuthState('session');
   console.log(
     color(
-      figlet.textSync("DREADED  BOT", {
+      figlet.textSync("VETEXJAYDEN  BOT", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -65,7 +65,7 @@ async function main() {
       level: 'silent'
     }),
     printQRInTerminal: true,
-    browser: ['Dreaded Active', 'safari', '1.0.0'],
+    browser: ['VETEX-JAYDEN Active', 'safari', '1.0.0'],
     auth: state,
     qrTimeout: 20000000,
   });
