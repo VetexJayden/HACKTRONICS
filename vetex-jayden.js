@@ -50,7 +50,7 @@ async function main() {
   const { state, saveCreds } = await useMultiFileAuthState('session');
   console.log(
     color(
-      figlet.textSync("VETEXJAYDEN  BOT", {
+      figlet.textSync("VETEX-JAYDEN  BOT", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
